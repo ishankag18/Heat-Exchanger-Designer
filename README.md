@@ -85,6 +85,3 @@ directly.
   (Incropera, Eq. 11.29/11.30 style) for 1 shell pass (2, 4, 6... tube
   passes), extended to N shells in series.
 
-## License
-
-MIT — feel free to reuse for coursework, hackathon, or portfolio projects.
